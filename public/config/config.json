@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xE2F19aB16E0d3eceBc2e311503F06D054C8d7fa0",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xe2f19ab16e0d3ecebc2e311503f06d054c8d7fa0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Super Saiyan",
+  "SYMBOL": "SS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
